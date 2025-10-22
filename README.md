@@ -8,8 +8,9 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 
 ## 💼 Projects Included  
 1. **Solidity Basics**
-2. **project2**
-3. **project3**
+   - this folder Contains basics of solidity language to write smart contracts!
+3. **project2**
+4. **project3**
 ---
 
 ⭐ *Feel free to explore, fork, or contribute to these projects!*
