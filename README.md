@@ -10,11 +10,6 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 1. **project1**
 2. **project2**
 3. **project3**
-   
-## 👩‍💻 Author  
-**Seham Othman**  
-🎓 MSKU University — Fall 2025  
-
 ---
 
 ⭐ *Feel free to explore, fork, or contribute to these projects!*
