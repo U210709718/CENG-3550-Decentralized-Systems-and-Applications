@@ -7,7 +7,7 @@ Each project demonstrates concepts such as blockchain architecture, smart contra
 ---
 
 ## 💼 Projects Included  
-1. **project1**
+1. **Solidity Basics**
 2. **project2**
 3. **project3**
 ---
