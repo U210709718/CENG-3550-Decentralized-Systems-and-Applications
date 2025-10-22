@@ -1,5 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0; //telling the compiler what version we will use!
+
+//Steps to compile the code :
+//1- Compile it.
+//2- Deploy it & run the transactions.
+
+
 //create smart contract!!
 contract Counter {
     //codes goes here!!
