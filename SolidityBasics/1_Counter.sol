@@ -1,7 +1,12 @@
 // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.0;
 
-    //---------------------------------LAST BEST VERSION OF THE CODE ---------------------------------------------------:
+    //Two versions of code are written here as you can see, but last version is better because it’s simpler, cleaner, and uses Solidity’s automatic features!
+    //No need for constructor since the variable can be initialized directly when declared.
+    //The "public" keyword already creates a getter function automatically, so we don’t need to define getCount().
+    //Overall: less code, same functionality, easier to read and maintain!
+
+//---------------------------------LAST BEST VERSION OF THE CODE ---------------------------------------------------:
 
     //Steps to compile the code :
     //1- Compile it.
